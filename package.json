@@ -16,7 +16,7 @@
     "@nuxtjs/bulma": "^1.2.1",
     "@nuxtjs/toast": "^3.3.0",
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "js-cookie": "^2.2.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.19",
